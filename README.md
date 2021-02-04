@@ -1,5 +1,4 @@
 #### Studying web development at the Mid Sweden University.
-🔭 I’m currently working on a project called [Listen](http://studenter.miun.se/~elst1904/projekt/listen/listen3.0/)  
 📫 elinstenback@gmail.com
 
 <!--
